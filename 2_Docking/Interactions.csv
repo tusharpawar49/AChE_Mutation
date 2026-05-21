@@ -1,0 +1,13 @@
+﻿Mutation,Ligand,Interactions
+WT,Ligand 41,"Conventional hydrogen bond (Tyr133, Glu202); Halogen/Fluorine (Trp86); Pi-cation (Tyr337); Pi-sigma (Phe338, Tyr341); Pi–Pi stacked (Trp286); Pi-alkyl (Trp286); Unfavourable bump (HOH728); Carbon hydrogen bond (Val294, Tyr337)"
+WT,Ligand 1631,"Water hydrogen bond (HOH952, HOH953); Conventional Hydrogen bond (Tyr124); Carbon hydrogen bond (Tyr341, Tyr337); Pi–Pi stacked (Trp286); Pi-alkyl/Alkyl (Phe338, Leu76); Pi-cation (Trp86); Unfavourable Donor-Donor (HOH955)"
+WT,Ligand 1821,"Conventional hydrogen bond (Tyr133, Asp74); Water hydrogen bond (HOH839, HOH953); Halogen/Fluorine (Tyr341); Pi-cation (Tyr337); Pi-sigma (Trp86); Pi–Pi stacked/ T-shaped (Trp286); Pi-alkyl (His447)"
+WT,Ligand 3191,"Water hydrogen bond (HOH953, HOH955); Carbon hydrogen bond (Arg296, Tyr341); Pi–Pi stacked (Trp286); Pi-alkyl (Tyr72); Unfavorable bump (HOH728); Pi-cation (Trp86)"
+W86A,Ligand 41,"Conventional hydrogen bond (Tyr124); Water hydrogen bond (HOH839); Halogen/Fluorine (His447, Gly448); Carbon hydrogen bond (Tyr337); Pi-anion (Glu202); Pi–Pi stacked/T-shaped (Trp286, Tyr341, Tyr449); Pi-alkyl (Ala86, Phe338); Unfavorable donor–donor (HOH955)"
+W86A,Ligand 1631,"Water hydrogen bond (HOH953); Attractive charge (Glu202); Conventional hydrogen bond (Tyr124); Carbon hydrogen bond (His447, Tyr337, Tyr72); Pi–Pi stacked/T-shaped/Amide Pi-stacked (Trp286, Gly448, Tyr449); Pi-alkyl (Phe338, Tyr341, Ile451)"
+W86A,Ligand 1821,"Conventional hydrogen bond (Asp74, Gln71); Water hydrogen bond (HOH839); Halogen/Fluorine (Ser293, Tyr341); Pi-cation (Tyr337); Pi-sigma (Ala86); Pi–Pi stacked/T-shaped (Trp286, Tyr341); Pi-alkyl (Trp286); Carbon hydrogen bond (Val73)"
+W86A,Ligand 3191,"Water hydrogen bond (HOH953, HOH955); Pi-donor hydrogen bond (Tyr341); Pi-sulfur (Met85); Pi-Pi stacked/T-shaped (Trp286, Tyr337); Pi-alkyl (Tyr72, Ala86); Unfavorable bump (HOH728)"
+W286A,Ligand 41,"Water hydrogen bond (HOH953); Pi-cation (Tyr337, Trp86); Pi–Pi stacked (Tyr124); Pi-alkyl/Alkyl (Ala286, Tyr72)"
+W286A,Ligand 1631,"Conventional hydrogen bond (Ser298); Water hydrogen bond (HOH955); Halogen/Fluorine (Gly120, Glu202, Trp86); Pi-cation (Tyr337); Pi-sigma (Phe338); Pi-Pi stacked (Tyr124); Pi-alkyl (Tyr341); Carbon hydrogen bond (Tyr337, Tyr341, Ala286)"
+W286A,Ligand 1821,"Conventional hydrogen bond (Glu202); Pi-cation (Tyr124); Pi-lone pair (HOH955); Pi–Pi stacked (Tyr337); Pi-alkyl (Leu130, Gly121, Phe338, Tyr341, Ala286, Tyr133); Unfavorable donor-donor (His447)"
+W286A,Ligand 3191,"Water hydrogen bond (HOH955); Halogen/Fluorine (Glu285); Pi-cation (Tyr341); Carbon hydrogen bond (Arg296, Tyr124); Pi-Pi stacked (Trp86); Pi-alkyl (Tyr337, His447)"
