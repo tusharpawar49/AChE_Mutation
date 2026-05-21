@@ -1,0 +1,10 @@
+System,Mutation,Ligand_ID,Replica,Global_Min_RMSD_A,Global_Min_Rg_A,Delta_G_min_kJmol
+Mutated,W286A,N/A,1,1.183,22.963,10.199
+Mutated,W286A,N/A,2,1.393,23.055,5.714
+Mutated,W286A,N/A,3,1.395,23.057,4.003
+Mutated,W86A,N/A,1,1.395,22.977,11.12
+Mutated,W86A,N/A,2,1.675,23.014,9.39
+Mutated,W86A,N/A,3,1.235,23.052,7.171
+Wild,None,N/A,1,1.286,22.89,6.94
+Wild,None,N/A,2,1.475,23.01,3.557
+Wild,None,N/A,3,1.442,22.992,5.282

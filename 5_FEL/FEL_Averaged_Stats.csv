@@ -1,0 +1,4 @@
+System,Mutation,Ligand_ID,Global_Min_RMSD_A_mean,Global_Min_RMSD_A_std,Global_Min_Rg_A_mean,Global_Min_Rg_A_std,Delta_G_min_kJmol_mean,Delta_G_min_kJmol_std
+Mutated,W286A,1631,1.324,0.122,23.025,0.054,6.639,3.2
+Mutated,W86A,1631,1.435,0.223,23.014,0.038,9.227,1.98
+Wild,None,1631,1.401,0.101,22.964,0.065,5.26,1.692
